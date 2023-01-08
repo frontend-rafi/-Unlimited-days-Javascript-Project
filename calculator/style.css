@@ -1,0 +1,60 @@
+*{
+margin: 0;
+padding: 0;
+}
+.container{
+    text-align: center;
+    align-items: center;
+  justify-content: center;
+  background-color: red;
+}
+.calculator{
+    position: absolute;
+    margin: 0% auto;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+  background-color: black;
+   
+}
+.calculator input{
+   width: 282px;
+  height: 60px;
+    border: 1px solid blue;
+    margin-top: 16%;
+    font-size: 30px;
+} 
+.row button{
+padding:5px 35px 5px 29px;
+background-color:tomato;
+font-size: 19px;
+font-weight: bold;
+
+}
+ #soman{
+    width: 30px;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.row button{
+    width: 45px;
+}
