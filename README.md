@@ -12,4 +12,4 @@
 |     3|<a href="https://rafis-toastnotification.netlify.app">Toast Notification</a>  |
 |     4|<a href="https://rafis-hamburgermenu.netlify.app">Hamburger Menu</a>  |
 |     5|<a href="https://rafis-noteapp.netlify.app">Note App</a>  |
-|     6|<a href="https://https://rafis-todoapp.netlify.app/">Todo App</a>  |
+|     6|<a href="https://rafis-todoapp.netlify.app/">Todo App</a>  |
