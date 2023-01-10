@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #cce7e8;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: poppins , sans-serif;
+    margin: 0;
+}
+.add{
+    background-color: #fff;
+    border-radius: 5px;
+    border: none; 
+    position: fixed;
+    padding: 0.5rem 1rem;
+    top: 1rem;
+    right: 1rem;
+ cursor : pointer;     
+}
+.note{
+    background-color: #fff;
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+}
+.note .tools{
+ background-color:#1979a9;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.5rem;
+   
+}
+.notes .tools button{
+    color: #fff;
+    background-color: transparent;
+   font-size: 1rem;
+   margin-left: 0.5rem;
+    cursor: pointer;
+}
+.note .main{
+     height: 100%;
+     width: 100%;
+     background-color: white;
+     padding: 0rem 1rem;
+}
+.note textarea{
+    width: 100%;
+    height: 100%;
+  resize: none;
+  font-size: 1.3rem; 
+    border: none;
+    font-family: inherit;
+    outline: none;
+  
+} 
+.note .hidden{
+ display: none;
+}
