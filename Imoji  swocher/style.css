@@ -1,0 +1,26 @@
+*{
+    padding: 0;margin: 0;box-sizing: border-box;
+}
+h1{
+    font-size: 2rem;
+}
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   background-color: rgb(176, 164, 164);
+}
+#emoji{
+    font-size: 3rem;
+    cursor:pointer; 
+    filter : contrast(200%);
+    transition-property: transform, filter;
+    transition-duration:200ms;
+
+}
+#emoji:hover{
+    transform: scale(1.2);
+filter:blur(5px) ;
+}
