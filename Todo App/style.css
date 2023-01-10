@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: grey;
+    font-family: poppins , sans-serif;
+    margin: 0;
+} 
+
+h1{
+    color: rebeccapurple;
+    text-align: center;
+    font-size: 5rem;
+    opacity: 0.4;
+}
+form{
+    width: 400px;
+    margin: auto;
+    max-width: 100%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+}
+.input {
+    border: none;
+    font-size: 2rem;
+   padding: 1rem 2rem ; 
+   display: block;
+   width: 100%;
+}
+.todos{
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+
+
+}
+.todos li{
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    cursor: pointer;
+
+     border-top: 1px solid #e5e5e5;
+    list-style-type: none;
+}
+ .todos li.completed {
+ color: #b5b5b5;
+text-decoration: line-through;
+
+}
+small{
+    font-size: 1.2rem;
+   top: 5%;
+   margin-left: 40%;
+   position: absolute;
+   cursor: pointer;
+
+}
