@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    color: #000;
+
+}
+
+section{
+    min-height: 100vh;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title{
+    font-size: 3rem;
+   
+    text-align: center;
+}
+
+
+.container{
+   max-width: 80%;
+   margin: auto;
+}
+.faq{
+    min-width: 700px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #000;
+    cursor: pointer;
+}
+.question{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+
+}
+.question h3{
+    font-size: 1.8rem;
+
+}
+.ans p {
+    padding-top: 1rem;
+    line-height: 1.6;
+    font-size: 1.4rem;
+}
+.ans{
+    height: 70px;
+    width: 500;
+   
+}
+
+
+.faq.active .ans {
+visibility: hidden;
+    height: 5px;
+  
+
+   
+}
+
