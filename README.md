@@ -13,4 +13,5 @@
 |     4|<a href="https://rafis-hamburgermenu.netlify.app">Hamburger Menu</a>  |
 |     5|<a href="https://rafis-noteapp.netlify.app">Note App</a>  |
 |     6|<a href="https://rafis-todoapp.netlify.app/">Todo App</a>  |
-|     6|<a href="https://emojiswitcher.netlify.app/">Emoji switcher</a>  |
+|     7|<a href="https://emojiswitcher.netlify.app/">Emoji switcher</a>  |
+|     8|<a href="https://rafis-faq-app.netlify.app/">FAQ App</a>  |
