@@ -14,4 +14,5 @@
 |     5|<a href="https://rafis-noteapp.netlify.app">Note App</a>  |
 |     6|<a href="https://rafis-todoapp.netlify.app/">Todo App</a>  |
 |     7|<a href="https://emojiswitcher.netlify.app/">Emoji switcher</a>  |
-|     8|<a href="https://rafis-faq-app.netlify.app/">FAQ App</a>  |
+|     8|<a href="https://rafis-faq-app.netlify.app/">FAQ App</a>
+|     9|<a href="tic-tac-toe-vjs.netlify.app">Tic-tac-toe</a>
