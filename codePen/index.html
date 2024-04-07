@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Code pen</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="editor">
+      <div class="code-container">
+        <div class="line-numbers" id="html-line-numbers"></div>
+        <textarea
+          id="html-code"
+          class="code"
+          rows="10"
+          cols="50"
+          placeholder="Enter HTML code here..."
+        ></textarea>
+      </div>
+      <div class="code-container">
+        <div class="line-numbers" id="css-line-numbers"></div>
+        <textarea
+          id="css-code"
+          class="code"
+          rows="10"
+          cols="50"
+          placeholder="Enter CSS code here..."
+        ></textarea>
+      </div>
+      <div class="code-container">
+        <div class="line-numbers" id="js-line-numbers"></div>
+        <textarea
+          id="js-code"
+          class="code"
+          rows="10"
+          cols="50"
+          placeholder="Enter JavaScript code here..."
+        ></textarea>
+      </div>
+      <button id="run-button">Run</button>
+      <div id="output"></div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
