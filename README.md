@@ -16,4 +16,7 @@
 |     7|<a href="https://emojiswitcher.netlify.app/">Emoji switcher</a>  |
 |     8|<a href="https://rafis-faq-app.netlify.app/">FAQ App</a>
 |     9|<a href="tic-tac-toe-vjs.netlify.app">Tic-tac-toe</a>
+
 |     9|<a href="https://fascinating-paletas-93c53d.netlify.app/">Code editor</a>
+|     10|<a href="frolicking-kitten-e7dd0a.netlify.app">Currency Converter</a>
+
